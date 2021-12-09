@@ -289,9 +289,10 @@ footer{
 
 .start{
     position: absolute;
-    buttom:10%;
-    left:200px;
-    padding-left:10px;
+    top: 87.5%;
+    left:53%;
+    padding-left:15px;
+    padding-top: 5px;
     width: 6.3%;
     height: 4.3%;
     font-size: 20pt;
