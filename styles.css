@@ -125,6 +125,13 @@ h1{
     top: 166%;
     font-family: 'Ubuntu', sans-serif;
 }
+.sketch_salon{
+    width: 1100;
+    position: absolute;
+    left: 21%;
+    top: 150%;
+    font-family: 'Ubuntu', sans-serif;
+}
 .view{
     position: absolute;
     left: 21%;
