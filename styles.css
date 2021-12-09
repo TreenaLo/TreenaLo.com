@@ -267,9 +267,7 @@ footer{
 }
 .resume:hover{
     background-color: rgb(247, 147, 30);
-}}
-
-
+}
 .viedo_bg{
 	width:100%;
 	height:100vh;
@@ -307,4 +305,6 @@ footer{
 }
 .start:hover{
     background-color: rgb(247, 147, 30);
-}
+}}
+
+
