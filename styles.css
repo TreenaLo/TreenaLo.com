@@ -289,7 +289,7 @@ footer{
 
 .start{
     position: absolute;
-
+    top:50%
     width: 6.3%;
     height: 4.3%;
     font-size: 20pt;
