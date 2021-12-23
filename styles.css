@@ -187,6 +187,10 @@ td:hover .text{
     position:relative;
     bottom:114px;
 }
+.fourth_row{
+    position:relative;
+    bottom:171px;
+}
 .web_design{
     position:relative;
     top:-70px;
@@ -212,7 +216,7 @@ footer{
 }
 .copyrights{
     position: absolute;
-    top: 2435px;
+    top: 2915px;
     left: 700px;
     font-size: 11pt;
 }
