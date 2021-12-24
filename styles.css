@@ -230,13 +230,12 @@ footer{
     position: relative;
     top: 50px;
     left: 19.5%;
-    background-color: rgb(254, 174, 118, 0.4);
     border-radius: 10px;
     width: 470px;
     height: 200px;
     padding-top: 25px;
     padding-left: 135px;
-    box-shadow: 9px 9px 5px #b9b9b9;
+    box-shadow: 4px 4px 2px #cacaca;
 }
 .mypic{
     position: relative;
