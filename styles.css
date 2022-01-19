@@ -129,7 +129,7 @@ h1{
     width: 1100;
     position: absolute;
     left: 21%;
-    top: 150%;
+    top: 166%;
     font-family: 'Ubuntu', sans-serif;
 }
 .view{
@@ -230,6 +230,7 @@ footer{
     position: relative;
     top: 50px;
     left: 19.5%;
+ 
     border-radius: 10px;
     width: 470px;
     height: 200px;
